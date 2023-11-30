@@ -1,2 +1,2 @@
 # odin-recipes
-Collection of slavic food recipes
+Collection of eastern european food recipes
